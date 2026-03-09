@@ -18,10 +18,10 @@ Pick your loadout. Hit install. Your system is ready.
 
 LGL System Loadout is a graphical wizard that gets a fresh Fedora install ready in minutes. Choose exactly what you want from a curated list of packages across gaming, multimedia, content creation, development tools, browsers, communication apps, GPU drivers, virtualisation, KDE theming, and the CachyOS kernel.
 
-- No defaults — nothing is pre-selected
+- No defaults -  nothing is pre-selected
 - Every item shows its current installed state before you commit
 - All checks run concurrently so pages load instantly
-- Installs only — nothing is removed without your knowledge
+- Installs only - nothing is removed without your knowledge
 
 ---
 
