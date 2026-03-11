@@ -4,6 +4,11 @@ All notable changes to LGL System Loadout are documented here.
 
 ---
 
+## [1.0.4] - 2026-03-10
+
+### Fixed
+- Metainfo file renamed to reverse-DNS format to match component ID and desktop file
+
 ## [1.0.3] - 2026-03-10
 
 ### Fixed
